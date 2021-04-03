@@ -56,8 +56,6 @@ seaborn==0.11.1
 six==1.11.0
 tensorboard==1.8.0
 tensorboardX==2.1
-tensorflow==1.8.0
-tensorflow-estimator==1.15.1
 termcolor==1.1.0
 torch==1.4.0
 tqdm==4.59.0
